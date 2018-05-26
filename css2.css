@@ -1,0 +1,57 @@
+header	{
+	padding: 10px;
+	background-color: white;
+	align: center;
+}
+
+body {
+	background-color: gray;
+}
+
+h1 	{
+	text-align: center;
+	font-family: Helvetica;
+	margin: 0 auto;
+	color: black;
+}
+
+section {
+	text-align: center;
+}
+
+footer {
+	padding: 3px;
+	background-color: black;
+	text-align: center;
+}
+
+h3 {
+	color:rgb(10, 10, 10);
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin: 25px;
+	padding: 50px;
+	font-size: 8.5pt;
+	text-align: left;
+	color: #FFFFFF;
+	background: #96281B;
+
+  }
+
+ 
+
+  ul {
+	text-align: center;
+}
+ 
+li {
+	display: inline-block;
+	padding-left: 10px;
+	color: blue;
+	font-size: 20px;
+	
+}
